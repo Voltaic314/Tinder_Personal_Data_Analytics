@@ -96,7 +96,7 @@ class TinderData:
         print(f"Total left swipes: {self.left_swipes}")
         print(f"Total Matches: {self.matches}")
         print()
-        print(f"Percentage of girls you swipe right on: {self.like_rate}%")
+        print(f"Percentage of people you swipe right on: {self.like_rate}%")
         print(f"Percentage of matches you get: {self.match_rate}%")
         print()
 
